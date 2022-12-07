@@ -1,6 +1,6 @@
 ## Hey there, my name is Arnav!
 
-Student, want to pursue BTech CSE.
+Student, pursuing BTech CSE.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arnav-2004&show_icons=true&layout=compact&theme=material-palenight&hide_border=true&include_all_commits=true" /> <br>
 
